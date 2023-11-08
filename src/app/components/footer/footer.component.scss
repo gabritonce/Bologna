@@ -1,0 +1,19 @@
+.container-footer {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 1em;
+}
+.preventivo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bi-calculator {
+  color: #e2007a;
+  justify-content: center;
+}
+p {
+  color: #e2007a;
+  font-weight: bold;
+  font-size: 0.8em;
+}

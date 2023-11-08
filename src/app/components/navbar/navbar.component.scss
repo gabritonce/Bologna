@@ -1,0 +1,26 @@
+.navbar {
+  padding-right: 0;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  text-align: right;
+}
+.container-img-button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-toggler {
+  margin-left: 4.2em;
+  margin-right: 1em;
+}
+
+.nav-link {
+  margin-right: 2em;
+  margin-left: 100px;
+}
+
+.navbar-collapse {
+  width: 20%;
+  background-color: transparent;
+}

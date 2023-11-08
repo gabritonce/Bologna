@@ -1,0 +1,31 @@
+.container-logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5em;
+}
+.logo {
+  width: 40%;
+  padding-bottom: 1em;
+}
+h3 {
+  text-align: center;
+}
+
+.div-button-login {
+  display: flex;
+  justify-content: center;
+  padding-top: 1em;
+
+  button {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    font-weight: bold;
+    padding: 0.5em;
+    padding-left: 5em;
+    padding-right: 5em;
+    font-size: 1.1em;
+  }
+}

@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-around;
   padding-top: 1em;
+  background-color: white;
 }
 .preventivo {
   display: flex;
@@ -16,4 +17,9 @@ p {
   color: #e2007a;
   font-weight: bold;
   font-size: 0.8em;
+}
+hr {
+  border: solid 1px black;
+  padding: 0; /* Rimuovi il riempimento */
+  margin: 0; /* Rimuovi il margine se presente */
 }

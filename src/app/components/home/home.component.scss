@@ -22,7 +22,7 @@
   margin-left: 1em;
 }
 hr {
-  border: solid 1px black;
+  border: solid 0.6px black;
   padding: 0; /* Rimuovi il riempimento */
   margin: 0; /* Rimuovi il margine se presente */
 }
@@ -44,16 +44,22 @@ hr {
 .bi-arrow-right-square {
   margin-top: 2.2em;
   color: #e2007a;
-  margin-left: 3em;
+  margin-left: 0.8em;
+  margin-right: 1em;
 }
 
 .bi-arrow-right-square-2 {
-  margin-top: 2em;
+  margin-top: 2.2em;
   color: #e2007a;
+  margin-left: 0.8em;
+  margin-right: 1em;
 }
 
 .container-arrow-2 {
   display: flex;
   flex-direction: row;
-  margin-right: 2.7em;
+}
+
+.div-svg {
+  width: 50%;
 }

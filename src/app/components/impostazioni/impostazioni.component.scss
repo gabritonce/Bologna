@@ -1,0 +1,61 @@
+.container-impostazioni {
+  padding-top: 5.8em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 10.5em;
+  padding-right: 2em;
+}
+.div-impostazioni {
+  display: flex;
+  h3 {
+    font-weight: bold;
+  }
+  svg {
+    color: #e2007a;
+    margin-left: 0.7em;
+  }
+  img {
+    margin-left: 2.2em;
+  }
+}
+
+.hr-1 {
+  border: solid 2px black;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+
+.hr-2 {
+  border: solid 2px black;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.menu {
+  display: flex;
+}
+svg {
+  color: #e2007a;
+  margin-top: 0.1em;
+}
+p {
+  color: black;
+  font-weight: bold;
+  margin-left: 1em;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.bi-eye-slash {
+  margin-top: 0.2em;
+}
+
+.bi-trash {
+  margin-top: 0.2em;
+}
+button {
+  border: none;
+  background-color: white;
+  font-weight: bold;
+  margin-left: 0.7em;
+}

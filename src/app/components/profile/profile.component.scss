@@ -1,0 +1,50 @@
+.container-profile {
+  padding-top: 5.8em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 3.7em;
+}
+.div-profile {
+  display: flex;
+  h3 {
+    font-weight: bold;
+  }
+  svg {
+    color: #e2007a;
+    margin-left: 0.7em;
+  }
+  img {
+    margin-left: 2.2em;
+  }
+}
+
+.div-form {
+  display: flex;
+  flex-direction: column;
+  label {
+    color: #e2007a;
+    font-weight: bold;
+  }
+  input {
+    background-color: #f2f2f2;
+    margin-right: 3em;
+    border: none;
+    padding: 0.2em;
+    margin-bottom: 0.2em;
+  }
+}
+button {
+  background-color: #e2007a;
+  color: white;
+  border-radius: 1.5em;
+  font-size: 0.7em;
+  border: none;
+  padding: 0.9em;
+  margin-top: 1em;
+}
+
+hr {
+  border: solid 1px black;
+  padding: 0; /* Rimuovi il riempimento */
+  margin: 0; /* Rimuovi il margine se presente */
+}
